@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netty.day2.Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-09-24T12:26:16" hostname="DESKTOP-FG0MHIG" time="0.017">
+  <properties/>
+  <testcase name="test1" classname="com.netty.day2.Test" time="0.017"/>
+  <system-out><![CDATA[16
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
